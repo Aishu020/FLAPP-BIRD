@@ -1,4 +1,4 @@
-# FLAPP-BIRD
+# FLAPPY-BIRD
 Abstract: It’s a GUI-based project used with the swing library to organize all the elements that work under the Flappy Bird Game.
 
 Language Used: Java
